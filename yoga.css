@@ -1,14 +1,14 @@
 body { background-color: #F5F5F5; 
-    color: #40407A; 
+    color: #3F2860; 
     font-family: Verdana, Arial, sans-serif; }
-h1 { background-color: #80CBC4;  
+h1 { background-color: #9BC1C2;  
   line-height: 200%;
   text-align: center; }
 nav { font-weight: bold;
    text-align: center; }
 nav a { text-decoration: none; }
 .studio { font-style: italic; }
-footer { background-color: #80CBC4;  
+footer { background-color: #9BC1C2;  
       font-size: .60em; 
       font-style: italic; 
       text-align: center; }
